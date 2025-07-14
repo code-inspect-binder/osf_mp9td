@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/mp9td_src/Data & Scripts/util")' >> /home/jovyan/.Rprofile
